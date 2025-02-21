@@ -5,6 +5,9 @@
  Projekt stworzony został w ramach zajęć laboratoryjnych z baz danych.
 
  🚀 Technologie
+ 
 MySQL / MariaDB – baza danych
+
 PHP – backend
+
 phpMyAdmin / MySQL Workbench – zarządzanie bazą danych
